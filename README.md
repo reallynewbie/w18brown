@@ -95,12 +95,3 @@
 ##### 5 Windows) Import the caraway table into my sql from the command line. Note: your mysql path in quotes may be different.
   
   $ "C:\Program Files\MySQL\MySQL Server 5.7\bin\mysql.exe" -u root -p caraway < caraway.sql
-  
-  
- -------------------------------------------
-  Current accountIDs and passwords:
-  
-  Peter001 - peterpw
-  Sarah001 - brown
-  Bruce001 - brucepw
-  Ann001 - annpw
