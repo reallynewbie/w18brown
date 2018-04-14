@@ -1,5 +1,10 @@
 # w18brown
 
+## Documentation
+"Brown - Project Team Tracking.docx" - Tracks scrum meetings for the 3 Sprints.
+"Brown Final Document.docx" - Examples of each function we finished and what it looks like.
+
+----------------------------
 ### Downloading and installing mysql.
 
 ##### 1) Go to https://dev.mysql.com/downloads/installer/
